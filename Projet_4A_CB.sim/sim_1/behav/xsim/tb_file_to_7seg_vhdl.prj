@@ -1,8 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../Projet_4A_CB.srcs/sources_1/new/lettres_fichier.vhd" \
-"../../../../Projet_4A_CB.srcs/sim_1/new/lettres_fichier_TB.vhd" \
-"../../../../Projet_4A_CB.srcs/sim_1/new/affichage_lettres_1_TB.vhd" \
-
-# Do not sort compile order
-nosort
